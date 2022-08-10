@@ -1,0 +1,6 @@
+Log Entry 1 Timer lapping at 0:00:01.007873
+Log Entry 2 Timer lapping at 0:00:02.022658
+Log Entry 3 Timer lapping at 0:00:03.027736
+Log Entry 4 Timer lapping at 0:00:04.043046
+Log Entry 5 Timer lapping at 0:00:05.046102
+Log Entry 6 Timer lapping at 0:00:06.049973
